@@ -1,0 +1,9 @@
+&id=
+&title=
+&artist=
+&first=0
+&des=
+
+&lv=0
+&inote=
+(120) {4}

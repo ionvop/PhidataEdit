@@ -1,0 +1,25 @@
+{
+    "highlight.maxMatches": 10000,
+    "highlight.regexes": {
+        "((?<=inote=[^]*)\\,)": [
+            {
+                "color": "#aaf"
+            }
+        ],
+        "((?<=inote=[^]*)/)": [
+            {
+                "color": "#ffa"
+            }
+        ],
+        "((?<=inote=[^]*):)": [
+            {
+                "color": "#afa"
+            }
+        ],
+        "((?<=inote=[^]*)[^,/:])": [
+            {
+                "color": "#adf"
+            }
+        ]
+    }
+}
