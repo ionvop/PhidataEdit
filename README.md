@@ -137,7 +137,7 @@ _-_----
 
 ### Events
 
-`TYPE[DIV:BEAT]LINE:START:END:EASE` A string that describes the event. The note is defined with 3 optional positional arguments.
+`TYPE[DIV:BEAT]LINE:START:END:EASE` A string that describes the event. The note is defined with 2 optional positional arguments.
 
 - `TYPE` (Required) The property of the event to be controlled.
 
